@@ -44,3 +44,7 @@ Here’s a joke to lighten up your day:
 <img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Joke" width="100%">
 
 ![profile views](https://komarev.com/ghpvc/?username=jadzeino&style=flat-square)
+
+<a href="https://www.buymeacoffee.com/ahmedzeno" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
