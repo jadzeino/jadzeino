@@ -34,13 +34,12 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=3)](https://github.com/acharlop/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=3)](https://github.com/jadzeino/github-profile-trophy)
 
 | GitHub Stats  | GitHub Streak           |
 | ------- | ---------------- |
-| ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=acharlop&count_private=true&show_icons=true&theme=tokyonight)    | ![Avi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acharlop&theme=vue-dark) |
+| ![jadzeino GitHub stats](https://github-readme-stats.vercel.app/api?username=jadzeino&count_private=true&show_icons=true&theme=tokyonight)    | ![jadzeino GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadzeino&theme=vue-dark) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
-![profile views](https://komarev.com/ghpvc/?username=acharlop&style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=jadzeino&style=flat-square)
