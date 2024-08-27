@@ -32,6 +32,9 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 <br />
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=3)](https://github.com/acharlop/github-profile-trophy)
 
 | GitHub Stats  | GitHub Streak           |
