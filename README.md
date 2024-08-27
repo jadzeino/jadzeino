@@ -33,12 +33,14 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=3)](https://github.com/jadzeino/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=acharlop&theme=matrix&row=2&column=9)](https://github.com/jadzeino/github-profile-trophy)
 
 | GitHub Stats  | GitHub Streak           |
 | ------- | ---------------- |
 | ![jadzeino GitHub stats](https://github-readme-stats.vercel.app/api?username=jadzeino&count_private=true&show_icons=true&theme=tokyonight)    | ![jadzeino GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadzeino&theme=vue-dark) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+Here’s a joke to lighten up your day:
+
+<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Joke" width="100%">
 
 ![profile views](https://komarev.com/ghpvc/?username=jadzeino&style=flat-square)
