@@ -39,9 +39,27 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 | ------- | ---------------- |
 | ![jadzeino GitHub stats](https://github-readme-stats.vercel.app/api?username=jadzeino&count_private=true&show_icons=true&theme=tokyonight)    | ![jadzeino GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadzeino&theme=vue-dark) |
 
-Here’s a joke to lighten up your day:
-
-<img src="https://readme-jokes.vercel.app/api?theme=vue-dark" alt="Joke" width="100%">
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href="https://app.daily.dev/jadzeino">
+          <img src="./devcard.png" width="356" alt="Jad's Dev Card"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center" style="margin-bottom: 20px;">
+        <strong>Here are some jokes to change your mood:</strong>
+      </div>
+      <div>
+        <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&noCache=1" alt="Joke 1" width="100%">
+        <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&noCache=2" alt="Joke 2" width="100%">
+        <img src="https://readme-jokes.vercel.app/api?theme=vue-dark&noCache=3" alt="Joke 3" width="100%">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ![profile views](https://komarev.com/ghpvc/?username=jadzeino&style=flat-square)
 
