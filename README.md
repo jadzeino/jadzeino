@@ -43,7 +43,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
   <tr>
     <td width="50%">
       <div align="center">
-        <a href="https://app.daily.dev/jadzeino">
+        <a href="https://app.daily.dev/azeno">
           <img src="./devcard.png" width="356" alt="Jad's Dev Card"/>
         </a>
       </div>
@@ -61,7 +61,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-![profile views](https://komarev.com/ghpvc/?username=azeno&style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=jadzeino&style=flat-square)
 
 <a href="https://www.buymeacoffee.com/ahmedzeno" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
