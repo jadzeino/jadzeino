@@ -69,7 +69,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jadzeino&theme=tokyonight&row=2&column=6&no-bg=true&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jadzeino&theme=tokyonight&margin-w=8&margin-h=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
